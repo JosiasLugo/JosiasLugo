@@ -1,40 +1,40 @@
-# 👋 Hola, soy Josias Lugo
+# 👋 Hi, I'm Josias Lugo
 
 ## Quality Assurance Engineer 🇩🇴
 
-Soy un Quality Assurance Engineer apasionado por la calidad del software y la automatización de pruebas.
+I'm a Quality Assurance Engineer passionate about software quality and test automation.
 
-Actualmente formo parte del equipo de QA del Ministerio de Obras Públicas y Comunicaciones (MOPC), donde participo en la validación de aplicaciones web, pruebas de API con Postman y automatización End-to-End utilizando Cypress.
+I am currently part of the Quality Assurance team at the Ministry of Public Works and Communications (MOPC), where I contribute to the validation of web applications, API testing with Postman, and End-to-End test automation using Cypress.
 
-Mi objetivo es especializarme en QA Automation y contribuir al desarrollo de software confiable mediante buenas prácticas de testing y automatización.
-
----
-
-## 🚀 Actualmente
-
-- 💼 QA Engineer en MOPC
-- 📚 Preparando ISTQB Foundation
-- 🎭 Aprendiendo Playwright
-- 🐳 Aprendiendo Docker
-- ⚙️ Aprendiendo GitHub Actions
+My goal is to specialize in QA Automation and contribute to building reliable software by applying best testing and automation practices.
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Currently
 
-### QA & Automatización
+- 💼 QA Engineer at MOPC
+- 📚 Preparing for the ISTQB Foundation Certification
+- 🎭 Learning Playwright
+- 🐳 Learning Docker
+- ⚙️ Learning GitHub Actions
+
+---
+
+## 🚀 Technologies
+
+### QA & Automation
 
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-### Programación
+### Programming
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Herramientas
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -42,9 +42,10 @@ Mi objetivo es especializarme en QA Automation y contribuir al desarrollo de sof
 
 ---
 
-## 📫 Contactos
+## 📫 Contact
 
-📧 lugopimenteljosiasangel@gmail.com
+📧 **Email:**  
+lugopimenteljosiasangel@gmail.com
 
-💼 LinkedIn
+💼 **LinkedIn:**  
 [linkedin.com/in/josias-lugo-pimentel](https://www.linkedin.com/in/josias-lugo-pimentel-4b9123314/)
