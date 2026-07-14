@@ -1,32 +1,22 @@
-## 👋 Hola, soy Josias Lugo
+# 👋 Hola, soy Josias Lugo
 
-Quality Assurance Engineer de República Dominicana 🇩🇴
+## Quality Assurance Engineer 🇩🇴
 
-Me apasiona asegurar la calidad del software mediante pruebas manuales y automatizadas. Actualmente trabajo en el Ministerio de Obras Públicas (MOPC), donde participo en la validación de aplicaciones web, pruebas de API y automatización E2E utilizando Cypress.
+Soy un Quality Assurance Engineer apasionado por la calidad del software y la automatización de pruebas.
 
-Siempre estoy aprendiendo nuevas tecnologías para evolucionar hacia un perfil de QA Automation especializado.
+Actualmente formo parte del equipo de QA del Ministerio de Obras Públicas y Comunicaciones (MOPC), donde participo en la validación de aplicaciones web, pruebas de API con Postman y automatización End-to-End utilizando Cypress.
 
----
-
-## 🚀 Tecnologías
-
-- Cypress
-- Postman
-- JavaScript
-- SQL
-- Git
-- GitHub
-- Swagger
-- JMeter
+Mi objetivo es especializarme en QA Automation y contribuir al desarrollo de software confiable mediante buenas prácticas de testing y automatización.
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 🚀 Actualmente
 
-- ISTQB Foundation
-- Playwright
-- Docker
-- GitHub Actions
+- 💼 QA Engineer en MOPC
+- 📚 Preparando ISTQB Foundation
+- 🎭 Aprendiendo Playwright
+- 🐳 Aprendiendo Docker
+- ⚙️ Aprendiendo GitHub Actions
 
 ---
 
@@ -57,4 +47,4 @@ Siempre estoy aprendiendo nuevas tecnologías para evolucionar hacia un perfil d
 📧 lugopimenteljosiasangel@gmail.com
 
 💼 LinkedIn
-https://www.linkedin.com/in/josias-lugo-pimentel-4b9123314/
+[linkedin.com/in/josias-lugo-pimentel](https://www.linkedin.com/in/josias-lugo-pimentel-4b9123314/)
