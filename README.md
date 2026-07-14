@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Josias Lugo
 
-<!--
-**JosiasLugo/JosiasLugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Automation Engineer
 
-Here are some ideas to get you started:
+Actualmente trabajo como QA en el Ministerio de Obras Públicas de República Dominicana.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías
+
+- Cypress
+- Postman
+- JavaScript
+- SQL
+- Git
+- GitHub
+- Swagger
+- JMeter
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- ISTQB Foundation
+- Playwright
+- Docker
+- GitHub Actions
+
+---
+
+## 📫 Contacto
+
+📧 lugopimenteljosiasangel@gmail.com
+
+💼 LinkedIn
+https://www.linkedin.com/in/josias-lugo-pimentel-4b9123314/
